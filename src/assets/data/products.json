@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "name": "Ergonomic Wooden Chair",
+        "price": 75.99,
+        "picture": "https://via.placeholder.com/150"
+    },
+    {
+        "id": 2,
+        "name": "Compact Bluetooth Speaker",
+        "price": 39.99,
+        "picture": "https://via.placeholder.com/150"
+    },
+    {
+        "id": 3,
+        "name": "Stainless Steel Water Bottle",
+        "price": 19.99,
+        "picture": "https://via.placeholder.com/150"
+    },
+    {
+        "id": 4,
+        "name": "Organic Cotton T-Shirt",
+        "price": 25.99,
+        "picture": "https://via.placeholder.com/150"
+    },
+    {
+        "id": 5,
+        "name": "Smart LED Bulb",
+        "price": 10.99,
+        "picture": "https://via.placeholder.com/150"
+    },
+    {
+        "id": 6,
+        "name": "Leather Wallet",
+        "price": 49.99,
+        "picture": "https://via.placeholder.com/150"
+    },
+    {
+        "id": 7,
+        "name": "Wireless Charging Pad",
+        "price": 24.99,
+        "picture": "https://via.placeholder.com/150"
+    },
+    {
+        "id": 8,
+        "name": "Noise-Cancelling Headphones",
+        "price": 199.99,
+        "picture": "https://via.placeholder.com/150"
+    },
+    {
+        "id": 9,
+        "name": "Silicone Baking Mat",
+        "price": 12.99,
+        "picture": "https://via.placeholder.com/150"
+    },
+    {
+        "id": 10,
+        "name": "Digital Wristwatch",
+        "price": 59.99,
+        "picture": "https://via.placeholder.com/150"
+    },
+    {
+        "id": 11,
+        "name": "Gourmet Coffee Beans",
+        "price": 14.99,
+        "picture": "https://via.placeholder.com/150"
+    },
+    {
+        "id": 12,
+        "name": "Yoga Mat",
+        "price": 35.99,
+        "picture": "https://via.placeholder.com/150"
+    },
+    {
+        "id": 13,
+        "name": "Wireless Mouse",
+        "price": 29.99,
+        "picture": "https://via.placeholder.com/150"
+    },
+    {
+        "id": 14,
+        "name": "Portable External Hard Drive",
+        "price": 89.99,
+        "picture": "https://via.placeholder.com/150"
+    },
+    {
+        "id": 15,
+        "name": "Insulated Lunch Box",
+        "price": 16.99,
+        "picture": "https://via.placeholder.com/150"
+    }
+]
