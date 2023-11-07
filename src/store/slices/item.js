@@ -7,7 +7,7 @@ const itemsSlice = createSlice({
     },
     reducers: {
         setAddItem(state, action) {
-            state.item = action.payload
+            state.number = action.payload
         },
         setRemoveItem(state, action) {
             state.item = action.payload
@@ -19,4 +19,4 @@ const itemsSlice = createSlice({
     }
 })
 export { itemsSlice }
-export const { setNumber, setAddItem } = itemsSlice.actions
+export const { setAddItem } = itemsSlice.actions
